@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PullingJump : MonoBehaviour
 {
+
     private Rigidbody rb;
 
     // Start is called before the first frame update
